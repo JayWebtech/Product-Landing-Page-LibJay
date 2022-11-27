@@ -1,0 +1,71 @@
+@import url('https://fonts.cdnfonts.com/css/google-sans');
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Product Sans', sans-serif;
+}
+#banner{
+    background-color: #183a1d;
+    padding-top: 150px;
+    padding-bottom: 150px;
+}
+#banner h1{
+    color: #fff;
+    text-align: center;
+}
+#banner span{
+    color: orange;
+}
+#banner p{
+    color: #fff;
+    text-align: center;
+}
+#banner .form{
+    margin-top: 50px;
+}
+#banner input{
+    width: 400px;
+    border: none;
+    border-radius: 40px 0px 0px 40px;
+    padding: 15px;
+}
+#banner button{
+    width: 100px;
+    border: none;
+    border-radius: 0px 40px 40px 0px;
+    padding: 15px;
+    background-color: orange;
+}
+#about {
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+#about span{
+    color: #fff;
+    font-size: 30px;
+    margin-bottom: 10px;
+    background-color: #183a1d;
+    padding: 13px;
+}
+#about .box{
+    padding: 20px;
+    box-shadow: 3px 3px 31px -9px rgba(0,0,0,0.08);
+}
+#pricing h2{
+    color:#fff;
+}
+#pricing{
+    margin-top: 80px;
+    background-color: #183a1d;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+#pricing button{
+    border: none;
+    padding: 15px;
+    color: #000;
+    background-color: orange;
+}
+#pricing .card-header{
+    background-color: #fff;
+}
