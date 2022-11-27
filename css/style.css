@@ -69,3 +69,14 @@
 #pricing .card-header{
     background-color: #fff;
 }
+@media only screen and (max-width: 600px) {
+    #banner input{
+        width: 100%;
+        border-radius: 40px;
+    }
+    #banner button{
+        width: 50%;
+        border-radius: 40px;
+        margin-top: 30px;
+    }
+  }
